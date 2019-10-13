@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1463758355 source:c:\users\shabaz khalid\desktop\bst\bst\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1463759229 c:\users\shabaz khalid\desktop\bst\bst\linkedlist.h
+	<iostream>
+	"Node.h"
+	<conio.h>
+	<cstdlib>
+
+1463715136 c:\users\shabaz khalid\desktop\bst\bst\node.h
+
+1463758355 source:c:\users\shabaz khalid\desktop\dsa project\bst\bst\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1463766699 c:\users\shabaz khalid\desktop\dsa project\bst\bst\linkedlist.h
+	<iostream>
+	"Node.h"
+	<conio.h>
+	<cstdlib>
+
+1463715136 c:\users\shabaz khalid\desktop\dsa project\bst\bst\node.h
+
